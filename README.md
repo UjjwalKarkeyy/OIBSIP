@@ -4,7 +4,7 @@ Welcome to my project repository developed during my internship, where I applied
 
 ---
 
-## 🔹 Project 1: Airbnb NYC – Data Cleaning
+## 🔹 Project 1: Airbnb NYC and YouTube Video Statistics – Data Cleaning
 
 **Objective:**  
 Clean and prepare Airbnb listings data for analysis by addressing inconsistencies, missing values, outliers, and duplicates.
@@ -14,6 +14,10 @@ Clean and prepare Airbnb listings data for analysis by addressing inconsistencie
 - Identified and removed duplicate rows
 - Standardized column names and string data
 - Detected and optionally removed outliers using IQR method
+
+**Dataset Used:**  
+NYC Airbnb Open Data – [Access Dataset]((https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data))
+Trending YouTube Video Statistics - [Access Dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
 **Tech Stack:**  
 `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`
@@ -34,6 +38,9 @@ Build a linear regression model to predict house prices using a cleaned numerica
 - Evaluated using metrics like Mean Squared Error (MSE) and R²
 - Visualized prediction results with scatter plots and line charts
 
+**Dataset Used:**  
+Housing Prices Dataset – [Access Dataset](https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression)
+
 **Tech Stack:**  
 `Pandas`, `Scikit-learn`, `Seaborn`, `Matplotlib`
 
@@ -52,6 +59,9 @@ Detect fraudulent transactions using a binary classification model and evaluate 
 - Applied `StandardScaler` for feature normalization
 - Evaluated model using **AUPRC** instead of standard AUC due to the imbalance
 - Designed a strategy for real-time monitoring (using APIs like Flask/FastAPI) and discussed scalability through batch/cloud deployment
+
+**Dataset Used:**  
+Credit Card Fraud Detection Dataset – [Access Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 **Tech Stack:**  
 `Pandas`, `Scikit-learn`, `StandardScaler`, `Precision-Recall metrics`
