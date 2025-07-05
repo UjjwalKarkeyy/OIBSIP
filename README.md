@@ -56,7 +56,7 @@ Detect fraudulent transactions using a binary classification model and evaluate 
 **Tech Stack:**  
 `Pandas`, `Scikit-learn`, `StandardScaler`, `Precision-Recall metrics`
 
-📁 [`Project Notebook`](./L3P2_Fraud_Detection/main.ipynb)
+📁 [`Project Notebook`](./L2P3_Fraud-Detection/main.ipynb)
 
 ---
 
