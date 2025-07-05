@@ -16,7 +16,7 @@ Clean and prepare Airbnb listings data for analysis by addressing inconsistencie
 - Detected and optionally removed outliers using IQR method
 
 **Dataset Used:**  
-NYC Airbnb Open Data – [Access NYC Dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+NYC Airbnb Open Data – [Access NYC Dataset](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)<br>
 Trending YouTube Video Statistics - [Access YT Dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
 **Tech Stack:**  
